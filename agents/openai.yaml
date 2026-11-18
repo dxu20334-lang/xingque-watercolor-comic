@@ -1,0 +1,4 @@
+interface:
+  display_name: "星阙水彩动物漫画"
+  short_description: "沿用上期纸纹、水彩和动物角色，生成封面、连续分镜或局部修图"
+  default_prompt: "用 $xingque-watercolor-comic 按上期水彩动物画风，把这个场景画成一张漫画。"
